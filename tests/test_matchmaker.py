@@ -1,4 +1,4 @@
-"""Tests for cognitive-matchmaker."""
+"""Tests for before-we-build-engine."""
 
 import pytest
 from cognitive_matchmaker import Matchmaker, PersonProfile, CrossTypologyMapper

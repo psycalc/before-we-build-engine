@@ -1,4 +1,4 @@
-# cognitive-matchmaker
+# before-we-build-engine
 
 Simulation-based personality compatibility matching using three typological systems.
 
@@ -13,7 +13,7 @@ Cognitive Matchmaker integrates:
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│                    cognitive-matchmaker                     │
+│                    before-we-build-engine                     │
 │                                                             │
 │  ┌─────────────┐  ┌─────────────┐  ┌─────────────┐       │
 │  │ temporistics │  │  psychosophy │  │   socionics  │       │
@@ -34,8 +34,8 @@ Cognitive Matchmaker integrates:
 ## Installation
 
 ```bash
-git clone https://github.com/psycalc/cognitive-matchmaker.git
-cd cognitive-matchmaker
+git clone https://github.com/before-we-build/before-we-build-engine.git
+cd before-we-build-engine
 pip install -e ".[dev]"
 ```
 
